@@ -15,7 +15,7 @@ The name of the paper/authors are deleted for privacy protection.
 
 ## How to cite
 Feel free to link to our [blog post](https://medium.com/ai2-blog/the-impact-of-covid-19-on-scientific-productivity-73bea003f4e9) or cite it: 
-```
+```bibtex 
 @misc{covid19impactacademia, 
     title={The Impact of COVID-19 on Scientific Productivity},
     authors={Daniel Khashabi and Oren Etzioni}, 
